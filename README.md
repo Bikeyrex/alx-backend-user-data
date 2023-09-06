@@ -4,5 +4,3 @@
 
 2. [0x01-Basic_authentication](./0x01-Basic_authentication)
 
-3. [0x02-Session_authentication](./0x02-Session_authentication)
-
